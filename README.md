@@ -1,4 +1,8 @@
-### Hi there 👋
+<div style="width: 100%;">
+  <a href="https://github.com/modille/modille/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
 <!--
 **modille/modille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
